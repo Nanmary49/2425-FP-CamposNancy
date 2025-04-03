@@ -25,3 +25,4 @@ del informacion_personal["edad"]
 
 # Imprimir el diccionario final
 print(informacion_personal)
+
